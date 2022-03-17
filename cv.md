@@ -45,7 +45,7 @@ function sortByBit(arr) {
 
 * HTML, CSS and JS Tutorials on the Udemy (completed):
 
-![Alt-текст](https://github.com/dilmurodov/rsschool-cv/blob/504f7d5345f9a511f5d7676cbfd8e4b47d301376/img.png)
+![Alt-текст](/images/img.png)
 
 ***
 ### Languages:
