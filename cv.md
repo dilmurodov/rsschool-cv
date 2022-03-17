@@ -45,7 +45,7 @@ function sortByBit(arr) {
 
 * HTML, CSS and JS Tutorials on the Udemy (completed):
 
-![Alt-текст](img.png "Подпись")
+![Alt-текст](./img.png "Подпись")
 
 ***
 ### Languages:
